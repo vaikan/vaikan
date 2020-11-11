@@ -1,5 +1,9 @@
 <h2 align="center"> Hi there 👋 welcome to my Github profile </h2>
 
+<!--<p align="center">
+  <img src="https://avatars1.githubusercontent.com/u/4703290?s=460&u=41a9c8ef23064f077ce7f6d3f2238cd32464d028&v=4" height="80px" width="80px"/>
+</p>-->
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vaikan&theme=tokyonight&show_icons=true&count_private=true&hide=stars,contribs" width="350"></a>
 </p>
